@@ -6,6 +6,7 @@ A collection of my LeetCode solutions, documenting my journey in data structures
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/CoderRebel/leetcode/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/CoderRebel/leetcode/tree/master/0231-power-of-two) |
 | [1922-count-good-numbers](https://github.com/CoderRebel/leetcode/tree/master/1922-count-good-numbers) |
 ## Recursion
@@ -16,6 +17,7 @@ A collection of my LeetCode solutions, documenting my journey in data structures
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/CoderRebel/leetcode/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/CoderRebel/leetcode/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/CoderRebel/leetcode/tree/master/0231-power-of-two) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/CoderRebel/leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
