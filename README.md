@@ -8,6 +8,7 @@ A collection of my LeetCode solutions, documenting my journey in data structures
 | ------- |
 | [0029-divide-two-integers](https://github.com/CoderRebel/leetcode/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/CoderRebel/leetcode/tree/master/0231-power-of-two) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/CoderRebel/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1922-count-good-numbers](https://github.com/CoderRebel/leetcode/tree/master/1922-count-good-numbers) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/CoderRebel/leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## Recursion
