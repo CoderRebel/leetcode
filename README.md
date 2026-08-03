@@ -31,6 +31,7 @@ A collection of my LeetCode solutions, documenting my journey in data structures
 | [0078-subsets](https://github.com/CoderRebel/leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/CoderRebel/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/CoderRebel/leetcode/tree/master/0137-single-number-ii) |
+| [0724-find-pivot-index](https://github.com/CoderRebel/leetcode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/CoderRebel/leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Backtracking
 |  |
@@ -47,5 +48,6 @@ A collection of my LeetCode solutions, documenting my journey in data structures
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/CoderRebel/leetcode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/CoderRebel/leetcode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
