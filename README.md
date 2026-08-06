@@ -39,6 +39,7 @@ A collection of my LeetCode solutions, documenting my journey in data structures
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/CoderRebel/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1470-shuffle-the-array](https://github.com/CoderRebel/leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/CoderRebel/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1528-shuffle-string](https://github.com/CoderRebel/leetcode/tree/master/1528-shuffle-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/CoderRebel/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Backtracking
 |  |
@@ -53,6 +54,7 @@ A collection of my LeetCode solutions, documenting my journey in data structures
 | ------- |
 | [0344-reverse-string](https://github.com/CoderRebel/leetcode/tree/master/0344-reverse-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/CoderRebel/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1528-shuffle-string](https://github.com/CoderRebel/leetcode/tree/master/1528-shuffle-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/CoderRebel/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Prefix Sum
 |  |
