@@ -14,6 +14,7 @@ A collection of my LeetCode solutions, documenting my journey in data structures
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/CoderRebel/leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/CoderRebel/leetcode/tree/master/0231-power-of-two) |
 | [1922-count-good-numbers](https://github.com/CoderRebel/leetcode/tree/master/1922-count-good-numbers) |
 ## Bit Manipulation
@@ -85,4 +86,8 @@ A collection of my LeetCode solutions, documenting my journey in data structures
 |  |
 | ------- |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/CoderRebel/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/CoderRebel/leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
