@@ -53,6 +53,7 @@ A collection of my LeetCode solutions, documenting my journey in data structures
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/CoderRebel/leetcode/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/CoderRebel/leetcode/tree/master/0344-reverse-string) |
 | [1108-defanging-an-ip-address](https://github.com/CoderRebel/leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/CoderRebel/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
