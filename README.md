@@ -51,6 +51,7 @@ A collection of my LeetCode solutions, documenting my journey in data structures
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/CoderRebel/leetcode/tree/master/0344-reverse-string) |
+| [0876-middle-of-the-linked-list](https://github.com/CoderRebel/leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
 | ------- |
@@ -91,4 +92,5 @@ A collection of my LeetCode solutions, documenting my journey in data structures
 | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/CoderRebel/leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0206-reverse-linked-list](https://github.com/CoderRebel/leetcode/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/CoderRebel/leetcode/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
