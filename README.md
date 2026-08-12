@@ -7,6 +7,7 @@ A collection of my LeetCode solutions, documenting my journey in data structures
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/CoderRebel/leetcode/tree/master/0029-divide-two-integers) |
+| [0202-happy-number](https://github.com/CoderRebel/leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/CoderRebel/leetcode/tree/master/0231-power-of-two) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/CoderRebel/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1922-count-good-numbers](https://github.com/CoderRebel/leetcode/tree/master/1922-count-good-numbers) |
@@ -52,6 +53,7 @@ A collection of my LeetCode solutions, documenting my journey in data structures
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/CoderRebel/leetcode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/CoderRebel/leetcode/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/CoderRebel/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [3884-first-matching-character-from-both-ends](https://github.com/CoderRebel/leetcode/tree/master/3884-first-matching-character-from-both-ends) |
@@ -79,6 +81,7 @@ A collection of my LeetCode solutions, documenting my journey in data structures
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/CoderRebel/leetcode/tree/master/0202-happy-number) |
 | [0347-top-k-frequent-elements](https://github.com/CoderRebel/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/CoderRebel/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/CoderRebel/leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -139,4 +142,8 @@ A collection of my LeetCode solutions, documenting my journey in data structures
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/CoderRebel/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/CoderRebel/leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
