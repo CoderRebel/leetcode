@@ -63,6 +63,7 @@ A collection of my LeetCode solutions, documenting my journey in data structures
 | [1528-shuffle-string](https://github.com/CoderRebel/leetcode/tree/master/1528-shuffle-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/CoderRebel/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/CoderRebel/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2278-percentage-of-letter-in-string](https://github.com/CoderRebel/leetcode/tree/master/2278-percentage-of-letter-in-string) |
 | [3884-first-matching-character-from-both-ends](https://github.com/CoderRebel/leetcode/tree/master/3884-first-matching-character-from-both-ends) |
 ## Prefix Sum
 |  |
