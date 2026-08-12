@@ -26,6 +26,7 @@ A collection of my LeetCode solutions, documenting my journey in data structures
 | [0137-single-number-ii](https://github.com/CoderRebel/leetcode/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/CoderRebel/leetcode/tree/master/0231-power-of-two) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/CoderRebel/leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [2351-first-letter-to-appear-twice](https://github.com/CoderRebel/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Array
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of my LeetCode solutions, documenting my journey in data structures
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/CoderRebel/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/CoderRebel/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2278-percentage-of-letter-in-string](https://github.com/CoderRebel/leetcode/tree/master/2278-percentage-of-letter-in-string) |
+| [2351-first-letter-to-appear-twice](https://github.com/CoderRebel/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [3884-first-matching-character-from-both-ends](https://github.com/CoderRebel/leetcode/tree/master/3884-first-matching-character-from-both-ends) |
 ## Prefix Sum
 |  |
@@ -79,6 +81,7 @@ A collection of my LeetCode solutions, documenting my journey in data structures
 | [0387-first-unique-character-in-a-string](https://github.com/CoderRebel/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/CoderRebel/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/CoderRebel/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [2351-first-letter-to-appear-twice](https://github.com/CoderRebel/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Sliding Window
 |  |
 | ------- |
@@ -117,6 +120,7 @@ A collection of my LeetCode solutions, documenting my journey in data structures
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/CoderRebel/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/CoderRebel/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [2351-first-letter-to-appear-twice](https://github.com/CoderRebel/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Queue
 |  |
 | ------- |
