@@ -58,6 +58,7 @@ A collection of my LeetCode solutions, documenting my journey in data structures
 | ------- |
 | [0058-length-of-last-word](https://github.com/CoderRebel/leetcode/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/CoderRebel/leetcode/tree/master/0344-reverse-string) |
+| [0451-sort-characters-by-frequency](https://github.com/CoderRebel/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1108-defanging-an-ip-address](https://github.com/CoderRebel/leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/CoderRebel/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1528-shuffle-string](https://github.com/CoderRebel/leetcode/tree/master/1528-shuffle-string) |
@@ -74,6 +75,7 @@ A collection of my LeetCode solutions, documenting my journey in data structures
 ## Hash Table
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/CoderRebel/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/CoderRebel/leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Sliding Window
 |  |
@@ -96,4 +98,20 @@ A collection of my LeetCode solutions, documenting my journey in data structures
 | [0092-reverse-linked-list-ii](https://github.com/CoderRebel/leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0206-reverse-linked-list](https://github.com/CoderRebel/leetcode/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/CoderRebel/leetcode/tree/master/0876-middle-of-the-linked-list) |
+## Sorting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/CoderRebel/leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/CoderRebel/leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/CoderRebel/leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Counting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/CoderRebel/leetcode/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
