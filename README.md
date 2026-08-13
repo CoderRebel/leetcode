@@ -13,6 +13,7 @@ A collection of my LeetCode solutions, documenting my journey in data structures
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/CoderRebel/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1922-count-good-numbers](https://github.com/CoderRebel/leetcode/tree/master/1922-count-good-numbers) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/CoderRebel/leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3945-digit-frequency-score](https://github.com/CoderRebel/leetcode/tree/master/3945-digit-frequency-score) |
 ## Recursion
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of my LeetCode solutions, documenting my journey in data structures
 | [0451-sort-characters-by-frequency](https://github.com/CoderRebel/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/CoderRebel/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2351-first-letter-to-appear-twice](https://github.com/CoderRebel/leetcode/tree/master/2351-first-letter-to-appear-twice) |
+| [3945-digit-frequency-score](https://github.com/CoderRebel/leetcode/tree/master/3945-digit-frequency-score) |
 ## Sliding Window
 |  |
 | ------- |
