@@ -13,6 +13,7 @@ A collection of my LeetCode solutions, documenting my journey in data structures
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/CoderRebel/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1922-count-good-numbers](https://github.com/CoderRebel/leetcode/tree/master/1922-count-good-numbers) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/CoderRebel/leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/CoderRebel/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3945-digit-frequency-score](https://github.com/CoderRebel/leetcode/tree/master/3945-digit-frequency-score) |
 ## Recursion
 |  |
@@ -48,6 +49,7 @@ A collection of my LeetCode solutions, documenting my journey in data structures
 | [1528-shuffle-string](https://github.com/CoderRebel/leetcode/tree/master/1528-shuffle-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/CoderRebel/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/CoderRebel/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/CoderRebel/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Backtracking
 |  |
 | ------- |
