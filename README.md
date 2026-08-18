@@ -66,6 +66,7 @@ A collection of my LeetCode solutions, documenting my journey in data structures
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/CoderRebel/leetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/CoderRebel/leetcode/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/CoderRebel/leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/CoderRebel/leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -161,4 +162,12 @@ A collection of my LeetCode solutions, documenting my journey in data structures
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/CoderRebel/leetcode/tree/master/0148-sort-list) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/CoderRebel/leetcode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/CoderRebel/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
