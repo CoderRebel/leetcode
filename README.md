@@ -58,6 +58,7 @@ A collection of my LeetCode solutions, documenting my journey in data structures
 ## Two Pointers
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/CoderRebel/leetcode/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/CoderRebel/leetcode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/CoderRebel/leetcode/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/CoderRebel/leetcode/tree/master/0876-middle-of-the-linked-list) |
@@ -113,11 +114,13 @@ A collection of my LeetCode solutions, documenting my journey in data structures
 |  |
 | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/CoderRebel/leetcode/tree/master/0092-reverse-linked-list-ii) |
+| [0148-sort-list](https://github.com/CoderRebel/leetcode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/CoderRebel/leetcode/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/CoderRebel/leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/CoderRebel/leetcode/tree/master/0148-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/CoderRebel/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/CoderRebel/leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Heap (Priority Queue)
@@ -144,6 +147,7 @@ A collection of my LeetCode solutions, documenting my journey in data structures
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/CoderRebel/leetcode/tree/master/0148-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/CoderRebel/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
@@ -153,4 +157,8 @@ A collection of my LeetCode solutions, documenting my journey in data structures
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/CoderRebel/leetcode/tree/master/0202-happy-number) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/CoderRebel/leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
