@@ -39,6 +39,7 @@ A collection of my LeetCode solutions, documenting my journey in data structures
 | [0078-subsets](https://github.com/CoderRebel/leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/CoderRebel/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/CoderRebel/leetcode/tree/master/0137-single-number-ii) |
+| [0209-minimum-size-subarray-sum](https://github.com/CoderRebel/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0347-top-k-frequent-elements](https://github.com/CoderRebel/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/CoderRebel/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/CoderRebel/leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -83,6 +84,7 @@ A collection of my LeetCode solutions, documenting my journey in data structures
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/CoderRebel/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/CoderRebel/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/CoderRebel/leetcode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/CoderRebel/leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -101,6 +103,7 @@ A collection of my LeetCode solutions, documenting my journey in data structures
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/CoderRebel/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/CoderRebel/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/CoderRebel/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/CoderRebel/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/CoderRebel/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -108,6 +111,7 @@ A collection of my LeetCode solutions, documenting my journey in data structures
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/CoderRebel/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/CoderRebel/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0875-koko-eating-bananas](https://github.com/CoderRebel/leetcode/tree/master/0875-koko-eating-bananas) |
 ## Simulation
 |  |
