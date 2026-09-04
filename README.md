@@ -157,6 +157,7 @@ A collection of my LeetCode solutions, documenting my journey in data structures
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/CoderRebel/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/CoderRebel/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Divide and Conquer
 |  |
@@ -179,6 +180,7 @@ A collection of my LeetCode solutions, documenting my journey in data structures
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/CoderRebel/leetcode/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/CoderRebel/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0739-daily-temperatures](https://github.com/CoderRebel/leetcode/tree/master/0739-daily-temperatures) |
 ## Bracket Sequences
 |  |
@@ -192,4 +194,8 @@ A collection of my LeetCode solutions, documenting my journey in data structures
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/CoderRebel/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/CoderRebel/leetcode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
