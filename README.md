@@ -180,6 +180,7 @@ A collection of my LeetCode solutions, documenting my journey in data structures
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/CoderRebel/leetcode/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/CoderRebel/leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/CoderRebel/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0739-daily-temperatures](https://github.com/CoderRebel/leetcode/tree/master/0739-daily-temperatures) |
 ## Bracket Sequences
@@ -197,5 +198,6 @@ A collection of my LeetCode solutions, documenting my journey in data structures
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/CoderRebel/leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/CoderRebel/leetcode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
