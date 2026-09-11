@@ -54,6 +54,7 @@ A collection of my LeetCode solutions, documenting my journey in data structures
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/CoderRebel/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/CoderRebel/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/CoderRebel/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3925-concatenate-array-with-reverse](https://github.com/CoderRebel/leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Backtracking
 |  |
 | ------- |
@@ -123,6 +124,7 @@ A collection of my LeetCode solutions, documenting my journey in data structures
 | ------- |
 | [1103-distribute-candies-to-people](https://github.com/CoderRebel/leetcode/tree/master/1103-distribute-candies-to-people) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/CoderRebel/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3925-concatenate-array-with-reverse](https://github.com/CoderRebel/leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Linked List
 |  |
 | ------- |
