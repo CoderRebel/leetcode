@@ -41,6 +41,7 @@ A collection of my LeetCode solutions, documenting my journey in data structures
 | [0137-single-number-ii](https://github.com/CoderRebel/leetcode/tree/master/0137-single-number-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/CoderRebel/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0347-top-k-frequent-elements](https://github.com/CoderRebel/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0496-next-greater-element-i](https://github.com/CoderRebel/leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/CoderRebel/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/CoderRebel/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/CoderRebel/leetcode/tree/master/0724-find-pivot-index) |
@@ -100,6 +101,7 @@ A collection of my LeetCode solutions, documenting my journey in data structures
 | [0347-top-k-frequent-elements](https://github.com/CoderRebel/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/CoderRebel/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/CoderRebel/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/CoderRebel/leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/CoderRebel/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2351-first-letter-to-appear-twice](https://github.com/CoderRebel/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [3945-digit-frequency-score](https://github.com/CoderRebel/leetcode/tree/master/3945-digit-frequency-score) |
@@ -186,6 +188,7 @@ A collection of my LeetCode solutions, documenting my journey in data structures
 | [0155-min-stack](https://github.com/CoderRebel/leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/CoderRebel/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/CoderRebel/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/CoderRebel/leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/CoderRebel/leetcode/tree/master/0739-daily-temperatures) |
 ## Bracket Sequences
 |  |
@@ -194,6 +197,7 @@ A collection of my LeetCode solutions, documenting my journey in data structures
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/CoderRebel/leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/CoderRebel/leetcode/tree/master/0739-daily-temperatures) |
 ## Greedy
 |  |
