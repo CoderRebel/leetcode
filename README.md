@@ -46,6 +46,7 @@ A collection of my LeetCode solutions, documenting my journey in data structures
 | [0560-subarray-sum-equals-k](https://github.com/CoderRebel/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/CoderRebel/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/CoderRebel/leetcode/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/CoderRebel/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/CoderRebel/leetcode/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/CoderRebel/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/CoderRebel/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -125,6 +126,7 @@ A collection of my LeetCode solutions, documenting my journey in data structures
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/CoderRebel/leetcode/tree/master/0735-asteroid-collision) |
 | [1103-distribute-candies-to-people](https://github.com/CoderRebel/leetcode/tree/master/1103-distribute-candies-to-people) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/CoderRebel/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3925-concatenate-array-with-reverse](https://github.com/CoderRebel/leetcode/tree/master/3925-concatenate-array-with-reverse) |
@@ -193,6 +195,7 @@ A collection of my LeetCode solutions, documenting my journey in data structures
 | [0225-implement-stack-using-queues](https://github.com/CoderRebel/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/CoderRebel/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/CoderRebel/leetcode/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/CoderRebel/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/CoderRebel/leetcode/tree/master/0739-daily-temperatures) |
 ## Bracket Sequences
 |  |
