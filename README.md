@@ -43,6 +43,7 @@ A collection of my LeetCode solutions, documenting my journey in data structures
 | [0209-minimum-size-subarray-sum](https://github.com/CoderRebel/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0347-top-k-frequent-elements](https://github.com/CoderRebel/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/CoderRebel/leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/CoderRebel/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/CoderRebel/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/CoderRebel/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/CoderRebel/leetcode/tree/master/0724-find-pivot-index) |
@@ -195,6 +196,7 @@ A collection of my LeetCode solutions, documenting my journey in data structures
 | [0225-implement-stack-using-queues](https://github.com/CoderRebel/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/CoderRebel/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/CoderRebel/leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/CoderRebel/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/CoderRebel/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/CoderRebel/leetcode/tree/master/0739-daily-temperatures) |
 ## Bracket Sequences
@@ -205,6 +207,7 @@ A collection of my LeetCode solutions, documenting my journey in data structures
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/CoderRebel/leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/CoderRebel/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/CoderRebel/leetcode/tree/master/0739-daily-temperatures) |
 ## Greedy
 |  |
