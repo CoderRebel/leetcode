@@ -58,6 +58,7 @@ A collection of my LeetCode solutions, documenting my journey in data structures
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/CoderRebel/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/CoderRebel/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/CoderRebel/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3668-restore-finishing-order](https://github.com/CoderRebel/leetcode/tree/master/3668-restore-finishing-order) |
 | [3925-concatenate-array-with-reverse](https://github.com/CoderRebel/leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Backtracking
 |  |
@@ -107,6 +108,7 @@ A collection of my LeetCode solutions, documenting my journey in data structures
 | [0496-next-greater-element-i](https://github.com/CoderRebel/leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/CoderRebel/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2351-first-letter-to-appear-twice](https://github.com/CoderRebel/leetcode/tree/master/2351-first-letter-to-appear-twice) |
+| [3668-restore-finishing-order](https://github.com/CoderRebel/leetcode/tree/master/3668-restore-finishing-order) |
 | [3945-digit-frequency-score](https://github.com/CoderRebel/leetcode/tree/master/3945-digit-frequency-score) |
 ## Sliding Window
 |  |
