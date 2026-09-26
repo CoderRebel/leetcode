@@ -7,6 +7,7 @@ A collection of my LeetCode solutions, documenting my journey in data structures
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/CoderRebel/leetcode/tree/master/0029-divide-two-integers) |
+| [0070-climbing-stairs](https://github.com/CoderRebel/leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/CoderRebel/leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/CoderRebel/leetcode/tree/master/0231-power-of-two) |
 | [1103-distribute-candies-to-people](https://github.com/CoderRebel/leetcode/tree/master/1103-distribute-candies-to-people) |
@@ -243,4 +244,12 @@ A collection of my LeetCode solutions, documenting my journey in data structures
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/CoderRebel/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/CoderRebel/leetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/CoderRebel/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
