@@ -38,6 +38,7 @@ A collection of my LeetCode solutions, documenting my journey in data structures
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/CoderRebel/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/CoderRebel/leetcode/tree/master/0042-trapping-rain-water) |
 | [0078-subsets](https://github.com/CoderRebel/leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/CoderRebel/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/CoderRebel/leetcode/tree/master/0137-single-number-ii) |
@@ -68,6 +69,7 @@ A collection of my LeetCode solutions, documenting my journey in data structures
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/CoderRebel/leetcode/tree/master/0042-trapping-rain-water) |
 | [0148-sort-list](https://github.com/CoderRebel/leetcode/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/CoderRebel/leetcode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/CoderRebel/leetcode/tree/master/0344-reverse-string) |
@@ -192,6 +194,7 @@ A collection of my LeetCode solutions, documenting my journey in data structures
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/CoderRebel/leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/CoderRebel/leetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/CoderRebel/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/CoderRebel/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/CoderRebel/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -209,6 +212,7 @@ A collection of my LeetCode solutions, documenting my journey in data structures
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/CoderRebel/leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/CoderRebel/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/CoderRebel/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/CoderRebel/leetcode/tree/master/0739-daily-temperatures) |
@@ -247,6 +251,7 @@ A collection of my LeetCode solutions, documenting my journey in data structures
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/CoderRebel/leetcode/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/CoderRebel/leetcode/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
