@@ -40,6 +40,7 @@ A collection of my LeetCode solutions, documenting my journey in data structures
 | [0033-search-in-rotated-sorted-array](https://github.com/CoderRebel/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/CoderRebel/leetcode/tree/master/0042-trapping-rain-water) |
 | [0078-subsets](https://github.com/CoderRebel/leetcode/tree/master/0078-subsets) |
+| [0084-largest-rectangle-in-histogram](https://github.com/CoderRebel/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0136-single-number](https://github.com/CoderRebel/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/CoderRebel/leetcode/tree/master/0137-single-number-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/CoderRebel/leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -197,6 +198,7 @@ A collection of my LeetCode solutions, documenting my journey in data structures
 | ------- |
 | [0020-valid-parentheses](https://github.com/CoderRebel/leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/CoderRebel/leetcode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/CoderRebel/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/CoderRebel/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/CoderRebel/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/CoderRebel/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -218,6 +220,7 @@ A collection of my LeetCode solutions, documenting my journey in data structures
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/CoderRebel/leetcode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/CoderRebel/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/CoderRebel/leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/CoderRebel/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/CoderRebel/leetcode/tree/master/0503-next-greater-element-ii) |
@@ -272,4 +275,8 @@ A collection of my LeetCode solutions, documenting my journey in data structures
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/CoderRebel/leetcode/tree/master/0901-online-stock-span) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/CoderRebel/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
