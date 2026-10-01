@@ -9,6 +9,7 @@ A collection of my LeetCode solutions, documenting my journey in data structures
 | [0029-divide-two-integers](https://github.com/CoderRebel/leetcode/tree/master/0029-divide-two-integers) |
 | [0070-climbing-stairs](https://github.com/CoderRebel/leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/CoderRebel/leetcode/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/CoderRebel/leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/CoderRebel/leetcode/tree/master/0231-power-of-two) |
 | [1103-distribute-candies-to-people](https://github.com/CoderRebel/leetcode/tree/master/1103-distribute-candies-to-people) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/CoderRebel/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -43,6 +44,7 @@ A collection of my LeetCode solutions, documenting my journey in data structures
 | [0084-largest-rectangle-in-histogram](https://github.com/CoderRebel/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0136-single-number](https://github.com/CoderRebel/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/CoderRebel/leetcode/tree/master/0137-single-number-ii) |
+| [0204-count-primes](https://github.com/CoderRebel/leetcode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/CoderRebel/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0347-top-k-frequent-elements](https://github.com/CoderRebel/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/CoderRebel/leetcode/tree/master/0496-next-greater-element-i) |
@@ -260,6 +262,7 @@ A collection of my LeetCode solutions, documenting my journey in data structures
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/CoderRebel/leetcode/tree/master/0204-count-primes) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/CoderRebel/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
 |  |
@@ -279,4 +282,20 @@ A collection of my LeetCode solutions, documenting my journey in data structures
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/CoderRebel/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/CoderRebel/leetcode/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/CoderRebel/leetcode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/CoderRebel/leetcode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/CoderRebel/leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
