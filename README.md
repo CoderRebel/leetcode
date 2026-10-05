@@ -47,6 +47,7 @@ A collection of my LeetCode solutions, documenting my journey in data structures
 | [0204-count-primes](https://github.com/CoderRebel/leetcode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/CoderRebel/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0347-top-k-frequent-elements](https://github.com/CoderRebel/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/CoderRebel/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/CoderRebel/leetcode/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/CoderRebel/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/CoderRebel/leetcode/tree/master/0503-next-greater-element-ii) |
@@ -157,6 +158,7 @@ A collection of my LeetCode solutions, documenting my journey in data structures
 | ------- |
 | [0148-sort-list](https://github.com/CoderRebel/leetcode/tree/master/0148-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/CoderRebel/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/CoderRebel/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/CoderRebel/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/CoderRebel/leetcode/tree/master/0455-assign-cookies) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/CoderRebel/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -238,6 +240,7 @@ A collection of my LeetCode solutions, documenting my journey in data structures
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/CoderRebel/leetcode/tree/master/0402-remove-k-digits) |
+| [0435-non-overlapping-intervals](https://github.com/CoderRebel/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/CoderRebel/leetcode/tree/master/0455-assign-cookies) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/CoderRebel/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Design
@@ -275,6 +278,7 @@ A collection of my LeetCode solutions, documenting my journey in data structures
 | ------- |
 | [0042-trapping-rain-water](https://github.com/CoderRebel/leetcode/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/CoderRebel/leetcode/tree/master/0070-climbing-stairs) |
+| [0435-non-overlapping-intervals](https://github.com/CoderRebel/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0907-sum-of-subarray-minimums](https://github.com/CoderRebel/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 ## Memoization
 |  |
