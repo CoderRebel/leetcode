@@ -64,6 +64,7 @@ A collection of my LeetCode solutions, documenting my journey in data structures
 | [1528-shuffle-string](https://github.com/CoderRebel/leetcode/tree/master/1528-shuffle-string) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/CoderRebel/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/CoderRebel/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2104-sum-of-subarray-ranges](https://github.com/CoderRebel/leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/CoderRebel/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/CoderRebel/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3668-restore-finishing-order](https://github.com/CoderRebel/leetcode/tree/master/3668-restore-finishing-order) |
@@ -221,6 +222,7 @@ A collection of my LeetCode solutions, documenting my journey in data structures
 | [0739-daily-temperatures](https://github.com/CoderRebel/leetcode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/CoderRebel/leetcode/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/CoderRebel/leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/CoderRebel/leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -236,6 +238,7 @@ A collection of my LeetCode solutions, documenting my journey in data structures
 | [0739-daily-temperatures](https://github.com/CoderRebel/leetcode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/CoderRebel/leetcode/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/CoderRebel/leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/CoderRebel/leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Greedy
 |  |
 | ------- |
