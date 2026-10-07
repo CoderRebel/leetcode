@@ -51,6 +51,7 @@ A collection of my LeetCode solutions, documenting my journey in data structures
 | [0455-assign-cookies](https://github.com/CoderRebel/leetcode/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/CoderRebel/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/CoderRebel/leetcode/tree/master/0503-next-greater-element-ii) |
+| [0525-contiguous-array](https://github.com/CoderRebel/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/CoderRebel/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/CoderRebel/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/CoderRebel/leetcode/tree/master/0724-find-pivot-index) |
@@ -107,6 +108,7 @@ A collection of my LeetCode solutions, documenting my journey in data structures
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/CoderRebel/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0525-contiguous-array](https://github.com/CoderRebel/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/CoderRebel/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/CoderRebel/leetcode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/CoderRebel/leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -120,6 +122,7 @@ A collection of my LeetCode solutions, documenting my journey in data structures
 | [0387-first-unique-character-in-a-string](https://github.com/CoderRebel/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/CoderRebel/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/CoderRebel/leetcode/tree/master/0496-next-greater-element-i) |
+| [0525-contiguous-array](https://github.com/CoderRebel/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/CoderRebel/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2351-first-letter-to-appear-twice](https://github.com/CoderRebel/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [3668-restore-finishing-order](https://github.com/CoderRebel/leetcode/tree/master/3668-restore-finishing-order) |
