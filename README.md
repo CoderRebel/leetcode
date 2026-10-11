@@ -69,6 +69,7 @@ A collection of my LeetCode solutions, documenting my journey in data structures
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/CoderRebel/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/CoderRebel/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3668-restore-finishing-order](https://github.com/CoderRebel/leetcode/tree/master/3668-restore-finishing-order) |
+| [3731-find-missing-elements](https://github.com/CoderRebel/leetcode/tree/master/3731-find-missing-elements) |
 | [3925-concatenate-array-with-reverse](https://github.com/CoderRebel/leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Backtracking
 |  |
@@ -126,6 +127,7 @@ A collection of my LeetCode solutions, documenting my journey in data structures
 | [0560-subarray-sum-equals-k](https://github.com/CoderRebel/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2351-first-letter-to-appear-twice](https://github.com/CoderRebel/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [3668-restore-finishing-order](https://github.com/CoderRebel/leetcode/tree/master/3668-restore-finishing-order) |
+| [3731-find-missing-elements](https://github.com/CoderRebel/leetcode/tree/master/3731-find-missing-elements) |
 | [3945-digit-frequency-score](https://github.com/CoderRebel/leetcode/tree/master/3945-digit-frequency-score) |
 ## Sliding Window
 |  |
@@ -166,6 +168,7 @@ A collection of my LeetCode solutions, documenting my journey in data structures
 | [0451-sort-characters-by-frequency](https://github.com/CoderRebel/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/CoderRebel/leetcode/tree/master/0455-assign-cookies) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/CoderRebel/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [3731-find-missing-elements](https://github.com/CoderRebel/leetcode/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
