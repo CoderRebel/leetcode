@@ -57,6 +57,7 @@ A collection of my LeetCode solutions, documenting my journey in data structures
 | [0724-find-pivot-index](https://github.com/CoderRebel/leetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/CoderRebel/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/CoderRebel/leetcode/tree/master/0739-daily-temperatures) |
+| [0860-lemonade-change](https://github.com/CoderRebel/leetcode/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/CoderRebel/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/CoderRebel/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/CoderRebel/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -251,6 +252,7 @@ A collection of my LeetCode solutions, documenting my journey in data structures
 | [0402-remove-k-digits](https://github.com/CoderRebel/leetcode/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/CoderRebel/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/CoderRebel/leetcode/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/CoderRebel/leetcode/tree/master/0860-lemonade-change) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/CoderRebel/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Design
 |  |
