@@ -98,6 +98,7 @@ A collection of my LeetCode solutions, documenting my journey in data structures
 | [0387-first-unique-character-in-a-string](https://github.com/CoderRebel/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/CoderRebel/leetcode/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/CoderRebel/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0678-valid-parenthesis-string](https://github.com/CoderRebel/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1108-defanging-an-ip-address](https://github.com/CoderRebel/leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/CoderRebel/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1528-shuffle-string](https://github.com/CoderRebel/leetcode/tree/master/1528-shuffle-string) |
@@ -225,6 +226,7 @@ A collection of my LeetCode solutions, documenting my journey in data structures
 | [0402-remove-k-digits](https://github.com/CoderRebel/leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/CoderRebel/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/CoderRebel/leetcode/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/CoderRebel/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/CoderRebel/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/CoderRebel/leetcode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/CoderRebel/leetcode/tree/master/0901-online-stock-span) |
@@ -234,6 +236,7 @@ A collection of my LeetCode solutions, documenting my journey in data structures
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/CoderRebel/leetcode/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/CoderRebel/leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -252,6 +255,7 @@ A collection of my LeetCode solutions, documenting my journey in data structures
 | [0402-remove-k-digits](https://github.com/CoderRebel/leetcode/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/CoderRebel/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/CoderRebel/leetcode/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/CoderRebel/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/CoderRebel/leetcode/tree/master/0860-lemonade-change) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/CoderRebel/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Design
@@ -292,6 +296,7 @@ A collection of my LeetCode solutions, documenting my journey in data structures
 | [0042-trapping-rain-water](https://github.com/CoderRebel/leetcode/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/CoderRebel/leetcode/tree/master/0070-climbing-stairs) |
 | [0435-non-overlapping-intervals](https://github.com/CoderRebel/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0678-valid-parenthesis-string](https://github.com/CoderRebel/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/CoderRebel/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 ## Memoization
 |  |
