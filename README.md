@@ -359,4 +359,8 @@ A collection of my LeetCode solutions, documenting my journey in data structures
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/CoderRebel/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/CoderRebel/leetcode/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
