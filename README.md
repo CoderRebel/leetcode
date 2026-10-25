@@ -43,6 +43,7 @@ A collection of my LeetCode solutions, documenting my journey in data structures
 | [0045-jump-game-ii](https://github.com/CoderRebel/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/CoderRebel/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/CoderRebel/leetcode/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/CoderRebel/leetcode/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/CoderRebel/leetcode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/CoderRebel/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0135-candy](https://github.com/CoderRebel/leetcode/tree/master/0135-candy) |
