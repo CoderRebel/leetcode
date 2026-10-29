@@ -376,5 +376,6 @@ A collection of my LeetCode solutions, documenting my journey in data structures
 | [0175-combine-two-tables](https://github.com/CoderRebel/leetcode/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/CoderRebel/leetcode/tree/master/0176-second-highest-salary) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/CoderRebel/leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
+| [0197-rising-temperature](https://github.com/CoderRebel/leetcode/tree/master/0197-rising-temperature) |
 | [1068-product-sales-analysis-i](https://github.com/CoderRebel/leetcode/tree/master/1068-product-sales-analysis-i) |
 <!---LeetCode Topics End-->
