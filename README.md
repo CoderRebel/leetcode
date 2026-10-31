@@ -12,6 +12,7 @@ A collection of my LeetCode solutions, documenting my journey in data structures
 | [0204-count-primes](https://github.com/CoderRebel/leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/CoderRebel/leetcode/tree/master/0231-power-of-two) |
 | [1103-distribute-candies-to-people](https://github.com/CoderRebel/leetcode/tree/master/1103-distribute-candies-to-people) |
+| [1248-count-number-of-nice-subarrays](https://github.com/CoderRebel/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/CoderRebel/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1922-count-good-numbers](https://github.com/CoderRebel/leetcode/tree/master/1922-count-good-numbers) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/CoderRebel/leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -67,6 +68,7 @@ A collection of my LeetCode solutions, documenting my journey in data structures
 | [0907-sum-of-subarray-minimums](https://github.com/CoderRebel/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/CoderRebel/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/CoderRebel/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/CoderRebel/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/CoderRebel/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1470-shuffle-the-array](https://github.com/CoderRebel/leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/CoderRebel/leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -124,6 +126,7 @@ A collection of my LeetCode solutions, documenting my journey in data structures
 | [0724-find-pivot-index](https://github.com/CoderRebel/leetcode/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/CoderRebel/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/CoderRebel/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/CoderRebel/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/CoderRebel/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/CoderRebel/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Hash Table
@@ -138,6 +141,7 @@ A collection of my LeetCode solutions, documenting my journey in data structures
 | [0525-contiguous-array](https://github.com/CoderRebel/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/CoderRebel/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/CoderRebel/leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/CoderRebel/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/CoderRebel/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2351-first-letter-to-appear-twice](https://github.com/CoderRebel/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [3668-restore-finishing-order](https://github.com/CoderRebel/leetcode/tree/master/3668-restore-finishing-order) |
@@ -151,6 +155,7 @@ A collection of my LeetCode solutions, documenting my journey in data structures
 | [0643-maximum-average-subarray-i](https://github.com/CoderRebel/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/CoderRebel/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/CoderRebel/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/CoderRebel/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/CoderRebel/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/CoderRebel/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/CoderRebel/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
