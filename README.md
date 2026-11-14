@@ -299,6 +299,7 @@ A collection of my LeetCode solutions, documenting my journey in data structures
 | [0110-balanced-binary-tree](https://github.com/CoderRebel/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/CoderRebel/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/CoderRebel/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/CoderRebel/leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -307,6 +308,7 @@ A collection of my LeetCode solutions, documenting my journey in data structures
 | [0110-balanced-binary-tree](https://github.com/CoderRebel/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/CoderRebel/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/CoderRebel/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/CoderRebel/leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -316,6 +318,7 @@ A collection of my LeetCode solutions, documenting my journey in data structures
 | [0110-balanced-binary-tree](https://github.com/CoderRebel/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/CoderRebel/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/CoderRebel/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/CoderRebel/leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Number Theory
 |  |
 | ------- |
@@ -394,4 +397,8 @@ A collection of my LeetCode solutions, documenting my journey in data structures
 | [0197-rising-temperature](https://github.com/CoderRebel/leetcode/tree/master/0197-rising-temperature) |
 | [0577-employee-bonus](https://github.com/CoderRebel/leetcode/tree/master/0577-employee-bonus) |
 | [1068-product-sales-analysis-i](https://github.com/CoderRebel/leetcode/tree/master/1068-product-sales-analysis-i) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/CoderRebel/leetcode/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
